@@ -37,3 +37,6 @@
 2. Import the provided SQL file (`database.sql`) into your MySQL database to create the necessary tables.
 3. Open the project directory in your web server's document root directory.
 4. Navigate to the project URL in your web browser to access the application.
+
+## Video Demo
+https://github.com/SLoharkar/PHP-CRUD-Application/assets/68845746/8c29e882-611e-4abb-93ed-b4d22a85cb48
