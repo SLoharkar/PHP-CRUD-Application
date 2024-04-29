@@ -1,4 +1,4 @@
-<!-- config.php file for Database Connection -->
+<!-- database.php file for Database Connection -->
 <?php
 
 session_start(); // Start the session for session variables
